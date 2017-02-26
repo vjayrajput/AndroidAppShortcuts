@@ -225,10 +225,10 @@ limitations under the License.
 ```
 
 
-[Donate $5]: 		https://www.paypal.me/MicheleLacorte/5
-[Donate $10]:  		https://www.paypal.me/MicheleLacorte/10
-[Donate $15]:  		https://www.paypal.me/MicheleLacorte/15
-[Donate $25]:  		https://www.paypal.me/MicheleLacorte/25
-[Donate $50]: 		https://www.paypal.me/MicheleLacorte/50
-[Donate $100]: 		https://www.paypal.me/MicheleLacorte/100
-[Donate $2799]: 	https://www.paypal.me/MicheleLacorte/2799
+[Donate $5]: 		https://www.paypal.me/vjayrajput/5
+[Donate $10]:  		https://www.paypal.me/vjayrajput/10
+[Donate $15]:  		https://www.paypal.me/vjayrajput/15
+[Donate $25]:  		https://www.paypal.me/vjayrajput/25
+[Donate $50]: 		https://www.paypal.me/vjayrajput/50
+[Donate $100]: 		https://www.paypal.me/vjayrajput/100
+[Donate $2799]: 	https://www.paypal.me/vjayrajput/2799
